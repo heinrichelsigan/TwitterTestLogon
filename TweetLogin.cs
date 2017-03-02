@@ -17,6 +17,10 @@ namespace TwitterTestLogon
     {
         const string AUTHURL = "https://twitter.com/sessions";
 
+
+        /// <summary>
+        /// default constructor 
+        /// </summary>
         public TweetLogin()
         {
             InitializeComponent();
